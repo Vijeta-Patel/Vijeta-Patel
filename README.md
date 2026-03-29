@@ -21,8 +21,8 @@
   music    →  wired in
 ```
 
-🌸 &nbsp;building **ThreadMark** — tamper-proof blockchain identity for garments  
-💗 &nbsp;contributed to **AIOOP.org** — govt platform for retired pensioners  
+🌸 &nbsp;building **ThreadMark** - tamper-proof blockchain identity for garments  
+💗 &nbsp;contributed to **AIOOP.org** - government-affiliated body for retired pensioners  
 🌷 &nbsp;love hardware that talks to the internet and smart contracts that don't lie  
 ✨ &nbsp;ask me about ESP32, Solidity, or Python ML pipelines  
 
