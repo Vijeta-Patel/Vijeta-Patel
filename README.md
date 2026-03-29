@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=200&section=header&text=vijeta%20patel&fontSize=52&fontColor=f9a8d4&fontAlignY=50&desc=✿%20code%20·%20circuits%20·%20blockchain%20✿&descSize=15&descAlignY=70&descFontColor=fce7f3&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&pause=1000&color=F472B6&background=FFFFFF00&center=true&vCenter=true&width=500&lines=iot+engineer+%7C+web3+builder+%7C+always+learning+🌸;esp32+%2B+ml+%2B+solidity+%2B+good+vibes+✨;building+things+that+shouldn't+exist+yet+🌷;open+to+collabs+%26+cool+people+💗" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=14&pause=1000&color=F472B6&background=FFFFFF00&center=true&vCenter=true&width=500&lines=iot+engineer+%7C+web3+builder+%7C+always+learning+🌸;esp32+%2B+ml+%2B+solidity+%2B+good+vibes+✨;building+things+that+shouldn't+exist+yet+🌷;open+to+collabs+%26+cool+people+💗" alt="Typing SVG" />
 
 </div>
 
