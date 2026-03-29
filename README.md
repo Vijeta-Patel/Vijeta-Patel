@@ -48,7 +48,6 @@
 
 ![ESP32](https://img.shields.io/badge/ESP32-%23fdf2f8?style=flat-square&logo=espressif&logoColor=be185d)
 ![Arduino](https://img.shields.io/badge/Arduino-%23fce7f3?style=flat-square&logo=arduino&logoColor=be185d)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23fdf2f8?style=flat-square&logo=raspberrypi&logoColor=be185d)
 
 `blockchain & web3`
 
