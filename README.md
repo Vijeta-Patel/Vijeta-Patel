@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=200&section=header&text=vijeta%20patel&fontSize=52&fontColor=ffffff&fontAlignY=50&desc=✿%20code%20·%20circuits%20·%20blockchain%20✿&descSize=15&descAlignY=70&descFontColor=ffe4e6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=200&section=header&text=vijeta%20patel&fontSize=52&fontColor=ffffff&fontAlignY=50&desc=dev%20·%20web3%20·%20whatever's%20next&descSize=15&descAlignY=70&descFontColor=ffe4e6&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=14&pause=1000&color=F472B6&background=FFFFFF00&center=true&vCenter=true&width=500&lines=blockchain+%7C+ai+%7C+ml+%7C+web+dev+%7C+devops;iot+engineer+from+bengaluru;learning+everything%2C+shipping+something;esp32+to+smart+contracts+and+back" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=14&pause=1000&color=F472B6&background=FFFFFF00&center=true&vCenter=true&width=500&lines=blockchain+·+ai+·+ml+·+web+dev+·+devops;learning+everything%2C+shipping+something;compiling+thoughts%2C+deploying+silence" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +18,6 @@
   name     →  vijeta patel
   based    →  bengaluru, india
   learning →  blockchain · ai · ml · web dev · devops
-  into     →  making hardware talk to blockchains
   music    →  wired in
 ```
 
@@ -100,33 +99,11 @@
 
 </div>
 
-<div align="center">
-
-[![Vijeta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vijeta-Patel&bg_color=fff0f6&color=be185d&line=f472b6&point=db2777&area=true&hide_border=true)](https://github.com/Vijeta-Patel)
-
-</div>
-
----
-
-### ✿ contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vijeta-Patel/Vijeta-Patel/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vijeta-Patel/Vijeta-Patel/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Vijeta-Patel/Vijeta-Patel/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-*🌸 run the snake action once and it'll appear here!*
-
-</div>
-
 ---
 
 <div align="center">
 
-🌸 &nbsp; *thanks for visiting — feel free to look around* &nbsp; 🌸
+🌸 &nbsp; *thanks for visiting* &nbsp; 🌸
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=100&section=footer&animation=fadeIn" width="100%"/>
 
