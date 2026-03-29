@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=200&section=header&text=vijeta%20patel&fontSize=52&fontColor=f9a8d4&fontAlignY=50&desc=✿%20code%20·%20circuits%20·%20blockchain%20✿&descSize=15&descAlignY=70&descFontColor=fce7f3&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=200&section=header&text=vijeta%20patel&fontSize=52&fontColor=ffffff&fontAlignY=50&desc=✿%20code%20·%20circuits%20·%20blockchain%20✿&descSize=15&descAlignY=70&descFontColor=ffe4e6&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=14&pause=1000&color=F472B6&background=FFFFFF00&center=true&vCenter=true&width=500&lines=iot+engineer+%7C+web3+builder+%7C+always+learning+🌸;esp32+%2B+ml+%2B+solidity+%2B+good+vibes+✨;building+things+that+shouldn't+exist+yet+🌷;open+to+collabs+%26+cool+people+💗" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=14&pause=1000&color=F472B6&background=FFFFFF00&center=true&vCenter=true&width=500&lines=blockchain+%7C+ai+%7C+ml+%7C+web+dev+%7C+devops;iot+engineer+from+bengaluru;learning+everything%2C+shipping+something;esp32+to+smart+contracts+and+back" alt="Typing SVG" />
 
 </div>
 
@@ -10,17 +10,16 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/Vijeta-Patel/Vijeta-Patel/main/pixel.gif" width="115px" style="margin-left:20px"/>
+<img align="right" src="https://raw.githubusercontent.com/Vijeta-Patel/Vijeta-Patel/main/pixel.gif" width="115px"/>
 
 ### ✿ about me
 
 ```
-  name    →  vijeta patel
-  based   →  india 🇮🇳
-  focus   →  iot · ml · blockchain
-  vibe    →  building what shouldn't exist yet
-  status  →  always debugging something 🔮
-  music   →  wired in, tuned out 🎧
+  name     →  vijeta patel
+  based    →  bengaluru, india
+  learning →  blockchain · ai · ml · web dev · devops
+  into     →  making hardware talk to blockchains
+  music    →  wired in
 ```
 
 🌸 &nbsp;building **ThreadMark** — tamper-proof blockchain identity for garments  
@@ -55,10 +54,9 @@
 `blockchain & web3`
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-%23fce7f3?style=flat-square&logo=ethereum&logoColor=be185d)
-![Solidity](https://img.shields.io/badge/Solidity-%23fdf2f8?style=flat-square&logo=solidity&logoColor=be185d)
-![Web3.js](https://img.shields.io/badge/Web3.js-%23fce7f3?style=flat-square&logo=web3dotjs&logoColor=be185d)
-![IPFS](https://img.shields.io/badge/IPFS-%23fdf2f8?style=flat-square&logo=ipfs&logoColor=be185d)
-![MetaMask](https://img.shields.io/badge/MetaMask-%23fce7f3?style=flat-square&logo=metamask&logoColor=be185d)
+![Web3.js](https://img.shields.io/badge/Web3.js-%23fdf2f8?style=flat-square&logo=web3dotjs&logoColor=be185d)
+![IPFS](https://img.shields.io/badge/IPFS-%23fce7f3?style=flat-square&logo=ipfs&logoColor=be185d)
+![MetaMask](https://img.shields.io/badge/MetaMask-%23fdf2f8?style=flat-square&logo=metamask&logoColor=be185d)
 
 `ml & data`
 
@@ -74,7 +72,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-%23fdf2f8?style=flat-square&logo=tailwindcss&logoColor=be185d)
 ![Firebase](https://img.shields.io/badge/Firebase-%23fce7f3?style=flat-square&logo=firebase&logoColor=be185d)
 ![Linux](https://img.shields.io/badge/Linux-%23fdf2f8?style=flat-square&logo=linux&logoColor=be185d)
-![Remix IDE](https://img.shields.io/badge/Remix%20IDE-%23fce7f3?style=flat-square&logo=ethereum&logoColor=be185d)
 
 </div>
 
@@ -86,10 +83,10 @@
 
 | 🌸 | project | what it does |
 |:---:|:---|:---|
-| 🌷 | [**ThreadMark**](https://github.com/Vijeta-Patel/ThreadMark) | blockchain-powered digital identity assigned to every garment — fake labels end here |
-| 💗 | [**VAULTLESS**](https://github.com/Vijeta-Patel/VAULTLESS) | behavioural DNA authentication on Ethereum — typing rhythm as identity, duress detection, anti-coercion ghost sessions |
-| 🌸 | [**aqi_miniproject**](https://github.com/Vijeta-Patel/aqi_miniproject) | ESP32 + MQ135 + DHT11 real-time air quality monitor — live ML model that classifies AQI into 6 categories and retrains itself |
-| ✨ | [**AIOOP.org**](https://github.com/Vijeta-Patel/AIOOP.org) | contributed to the official web platform for All India Organisation of Pensioners — TypeScript |
+| 🌷 | [**ThreadMark**](https://github.com/Vijeta-Patel/ThreadMark) | blockchain-powered digital identity for every garment — fake labels end here |
+| 💗 | [**VAULTLESS**](https://github.com/Vijeta-Patel/VAULTLESS) | behavioural DNA auth on Ethereum — typing rhythm as identity + duress detection |
+| 🌸 | [**aqi_miniproject**](https://github.com/Vijeta-Patel/aqi_miniproject) | ESP32 + MQ135 real-time air quality monitor with a self-retraining ML model |
+| ✨ | [**AIOOP.org**](https://github.com/Vijeta-Patel/AIOOP.org) | contributed to official web platform for All India Organisation of Pensioners |
 
 </div>
 
@@ -99,9 +96,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vijeta-Patel&show_icons=true&hide_border=true&bg_color=fff0f6&title_color=db2777&icon_color=f472b6&text_color=9d174d&ring_color=f9a8d4&include_all_commits=true" height="150"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijeta-Patel&layout=compact&hide_border=true&bg_color=fff0f6&title_color=db2777&text_color=9d174d" height="150"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=Vijeta-Patel&cc=fff0f6&tc=be185d&ic=f472b6&bc=fce7f3" height="150"/>
+
+</div>
+
+<div align="center">
+
+[![Vijeta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vijeta-Patel&bg_color=fff0f6&color=be185d&line=f472b6&point=db2777&area=true&hide_border=true)](https://github.com/Vijeta-Patel)
 
 </div>
 
@@ -111,13 +112,13 @@
 
 <div align="center">
 
-> ⚠️ *the snake appears after running the github action once — instructions in the repo!*
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vijeta-Patel/Vijeta-Patel/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vijeta-Patel/Vijeta-Patel/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Vijeta-Patel/Vijeta-Patel/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+
+*🌸 run the snake action once and it'll appear here!*
 
 </div>
 
