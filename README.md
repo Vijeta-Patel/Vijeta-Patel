@@ -1,110 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=17,18,19&height=180&section=header&text=vijeta%20patel&fontSize=50&fontColor=f9a8d4&fontAlignY=50&desc=✦%20code%20·%20circuits%20·%20blockchain%20✦&descSize=15&descAlignY=70&descFontColor=fbcfe8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=200&section=header&text=vijeta%20patel&fontSize=52&fontColor=f9a8d4&fontAlignY=50&desc=✿%20code%20·%20circuits%20·%20blockchain%20✿&descSize=15&descAlignY=70&descFontColor=fce7f3&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=F9A8D4&background=00000000&center=true&vCenter=true&width=440&lines=iot+%2B+ml+%2B+ethereum+%2B+vibes+🌸;building+things+that+matter+✨;always+learning%2C+always+building+🌙;open+to+collabs+%26+cool+ideas+💗" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&pause=1000&color=F472B6&background=FFFFFF00&center=true&vCenter=true&width=500&lines=iot+engineer+%7C+web3+builder+%7C+always+learning+🌸;esp32+%2B+ml+%2B+solidity+%2B+good+vibes+✨;building+things+that+shouldn't+exist+yet+🌷;open+to+collabs+%26+cool+people+💗" alt="Typing SVG" />
 
 </div>
 
-<br/>
+<br>
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/Vijeta-Patel/Vijeta-Patel/main/pixel.gif" width="120px"/>
+<img align="right" src="https://raw.githubusercontent.com/Vijeta-Patel/Vijeta-Patel/main/pixel.gif" width="115px" style="margin-left:20px"/>
 
-### ˚₊· ͟͟͞͞➳❥ about me
+### ✿ about me
 
 ```
-name    →  vijeta patel
-based   →  india 🇮🇳
-focus   →  iot · blockchain · ml
-vibe    →  building things that shouldn't exist yet
-status  →  always debugging something 🔮
+  name    →  vijeta patel
+  based   →  india 🇮🇳
+  focus   →  iot · ml · blockchain
+  vibe    →  building what shouldn't exist yet
+  status  →  always debugging something 🔮
+  music   →  wired in, tuned out 🎧
 ```
 
-- 🌸 working on **ThreadMark** — blockchain auth for garments
-- 💗 love the intersection of hardware + web3
-- 🌙 ask me about ESP32, Solidity, or Python ML pipelines
-- ✨ currently learning more Ethereum internals
+🌸 &nbsp;building **ThreadMark** — tamper-proof blockchain identity for garments  
+💗 &nbsp;contributed to **AIOOP.org** — govt platform for retired pensioners  
+🌷 &nbsp;love hardware that talks to the internet and smart contracts that don't lie  
+✨ &nbsp;ask me about ESP32, Solidity, or Python ML pipelines  
 
 <br clear="right"/>
 
 ---
 
-### ˚₊· ͟͟͞͞➳❥ tech & tools
+### ✿ tech stack
 
 <div align="center">
 
-**↳ languages**
+`languages`
 
-![Python](https://img.shields.io/badge/python-fce7f3?style=flat-square&logo=python&logoColor=9d174d)
-![JavaScript](https://img.shields.io/badge/javascript-fdf2f8?style=flat-square&logo=javascript&logoColor=9d174d)
-![TypeScript](https://img.shields.io/badge/typescript-fce7f3?style=flat-square&logo=typescript&logoColor=9d174d)
-![Solidity](https://img.shields.io/badge/solidity-fdf2f8?style=flat-square&logo=solidity&logoColor=9d174d)
-![C++](https://img.shields.io/badge/c++-fce7f3?style=flat-square&logo=cplusplus&logoColor=9d174d)
-![HTML5](https://img.shields.io/badge/html5-fdf2f8?style=flat-square&logo=html5&logoColor=9d174d)
-![CSS3](https://img.shields.io/badge/css3-fce7f3?style=flat-square&logo=css3&logoColor=9d174d)
+![Python](https://img.shields.io/badge/Python-%23fce7f3?style=flat-square&logo=python&logoColor=be185d)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23fdf2f8?style=flat-square&logo=javascript&logoColor=be185d)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23fce7f3?style=flat-square&logo=typescript&logoColor=be185d)
+![Solidity](https://img.shields.io/badge/Solidity-%23fdf2f8?style=flat-square&logo=solidity&logoColor=be185d)
+![C++](https://img.shields.io/badge/C++-%23fce7f3?style=flat-square&logo=cplusplus&logoColor=be185d)
+![HTML](https://img.shields.io/badge/HTML-%23fdf2f8?style=flat-square&logo=html5&logoColor=be185d)
+![CSS](https://img.shields.io/badge/CSS-%23fce7f3?style=flat-square&logo=css3&logoColor=be185d)
 
-**↳ hardware & iot**
+`hardware & iot`
 
-![ESP32](https://img.shields.io/badge/esp32-fdf2f8?style=flat-square&logo=espressif&logoColor=9d174d)
-![Arduino](https://img.shields.io/badge/arduino-fce7f3?style=flat-square&logo=arduino&logoColor=9d174d)
-![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-fdf2f8?style=flat-square&logo=raspberrypi&logoColor=9d174d)
+![ESP32](https://img.shields.io/badge/ESP32-%23fdf2f8?style=flat-square&logo=espressif&logoColor=be185d)
+![Arduino](https://img.shields.io/badge/Arduino-%23fce7f3?style=flat-square&logo=arduino&logoColor=be185d)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23fdf2f8?style=flat-square&logo=raspberrypi&logoColor=be185d)
 
-**↳ blockchain & web3**
+`blockchain & web3`
 
-![Ethereum](https://img.shields.io/badge/ethereum-fce7f3?style=flat-square&logo=ethereum&logoColor=9d174d)
-![Web3.js](https://img.shields.io/badge/web3.js-fdf2f8?style=flat-square&logo=web3dotjs&logoColor=9d174d)
-![IPFS](https://img.shields.io/badge/ipfs-fce7f3?style=flat-square&logo=ipfs&logoColor=9d174d)
+![Ethereum](https://img.shields.io/badge/Ethereum-%23fce7f3?style=flat-square&logo=ethereum&logoColor=be185d)
+![Solidity](https://img.shields.io/badge/Solidity-%23fdf2f8?style=flat-square&logo=solidity&logoColor=be185d)
+![Web3.js](https://img.shields.io/badge/Web3.js-%23fce7f3?style=flat-square&logo=web3dotjs&logoColor=be185d)
+![IPFS](https://img.shields.io/badge/IPFS-%23fdf2f8?style=flat-square&logo=ipfs&logoColor=be185d)
+![MetaMask](https://img.shields.io/badge/MetaMask-%23fce7f3?style=flat-square&logo=metamask&logoColor=be185d)
 
-**↳ ml & data**
+`ml & data`
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-fdf2f8?style=flat-square&logo=scikit-learn&logoColor=9d174d)
-![Pandas](https://img.shields.io/badge/pandas-fce7f3?style=flat-square&logo=pandas&logoColor=9d174d)
-![NumPy](https://img.shields.io/badge/numpy-fdf2f8?style=flat-square&logo=numpy&logoColor=9d174d)
-![Matplotlib](https://img.shields.io/badge/matplotlib-fce7f3?style=flat-square&logo=python&logoColor=9d174d)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23fdf2f8?style=flat-square&logo=scikit-learn&logoColor=be185d)
+![Pandas](https://img.shields.io/badge/Pandas-%23fce7f3?style=flat-square&logo=pandas&logoColor=be185d)
+![NumPy](https://img.shields.io/badge/NumPy-%23fdf2f8?style=flat-square&logo=numpy&logoColor=be185d)
 
-**↳ tools**
+`tools`
 
-![Git](https://img.shields.io/badge/git-fdf2f8?style=flat-square&logo=git&logoColor=9d174d)
-![VS Code](https://img.shields.io/badge/vs%20code-fce7f3?style=flat-square&logo=visualstudiocode&logoColor=9d174d)
-![Linux](https://img.shields.io/badge/linux-fdf2f8?style=flat-square&logo=linux&logoColor=9d174d)
-![Firebase](https://img.shields.io/badge/firebase-fce7f3?style=flat-square&logo=firebase&logoColor=9d174d)
-![Postman](https://img.shields.io/badge/postman-fdf2f8?style=flat-square&logo=postman&logoColor=9d174d)
+![Git](https://img.shields.io/badge/Git-%23fce7f3?style=flat-square&logo=git&logoColor=be185d)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23fdf2f8?style=flat-square&logo=visualstudiocode&logoColor=be185d)
+![Vite](https://img.shields.io/badge/Vite-%23fce7f3?style=flat-square&logo=vite&logoColor=be185d)
+![Tailwind](https://img.shields.io/badge/Tailwind-%23fdf2f8?style=flat-square&logo=tailwindcss&logoColor=be185d)
+![Firebase](https://img.shields.io/badge/Firebase-%23fce7f3?style=flat-square&logo=firebase&logoColor=be185d)
+![Linux](https://img.shields.io/badge/Linux-%23fdf2f8?style=flat-square&logo=linux&logoColor=be185d)
+![Remix IDE](https://img.shields.io/badge/Remix%20IDE-%23fce7f3?style=flat-square&logo=ethereum&logoColor=be185d)
 
 </div>
 
 ---
 
-### ˚₊· ͟͟͞͞➳❥ projects
+### ✿ projects
 
 <div align="center">
 
-| 🌸 project | 💗 what it does | ✨ stack |
-|:---|:---|:---|
-| [**aqi_miniproject**](https://github.com/Vijeta-Patel/aqi_miniproject) | ESP32 IoT air quality monitor with live ML prediction | Python · ESP32 |
-| [**ThreadMark**](https://github.com/Vijeta-Patel/ThreadMark) | Blockchain identity for garments — fake labels end here | Solidity · Web3 |
-| [**VAULTLESS**](https://github.com/Vijeta-Patel/VAULTLESS) | Behavioural identity auth secured on Ethereum | JavaScript |
+| 🌸 | project | what it does |
+|:---:|:---|:---|
+| 🌷 | [**ThreadMark**](https://github.com/Vijeta-Patel/ThreadMark) | blockchain-powered digital identity assigned to every garment — fake labels end here |
+| 💗 | [**VAULTLESS**](https://github.com/Vijeta-Patel/VAULTLESS) | behavioural DNA authentication on Ethereum — typing rhythm as identity, duress detection, anti-coercion ghost sessions |
+| 🌸 | [**aqi_miniproject**](https://github.com/Vijeta-Patel/aqi_miniproject) | ESP32 + MQ135 + DHT11 real-time air quality monitor — live ML model that classifies AQI into 6 categories and retrains itself |
+| ✨ | [**AIOOP.org**](https://github.com/Vijeta-Patel/AIOOP.org) | contributed to the official web platform for All India Organisation of Pensioners — TypeScript |
 
 </div>
 
 ---
 
-### ˚₊· ͟͟͞͞➳❥ github stats
+### ✿ github stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vijeta-Patel&show_icons=true&hide_border=true&bg_color=1a0a10&title_color=f9a8d4&icon_color=f9a8d4&text_color=fbcfe8&ring_color=f472b6" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vijeta-Patel&show_icons=true&hide_border=true&bg_color=fff0f6&title_color=db2777&icon_color=f472b6&text_color=9d174d&ring_color=f9a8d4&include_all_commits=true" height="150"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijeta-Patel&layout=compact&hide_border=true&bg_color=1a0a10&title_color=f9a8d4&text_color=fbcfe8" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijeta-Patel&layout=compact&hide_border=true&bg_color=fff0f6&title_color=db2777&text_color=9d174d" height="150"/>
 
 </div>
 
 ---
 
-### ˚₊· ͟͟͞͞➳❥ contribution snake
+### ✿ contribution snake
 
 <div align="center">
+
+> ⚠️ *the snake appears after running the github action once — instructions in the repo!*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vijeta-Patel/Vijeta-Patel/output/github-contribution-grid-snake-dark.svg"/>
@@ -118,6 +125,8 @@ status  →  always debugging something 🔮
 
 <div align="center">
 
-*✦ thanks for stopping by — feel free to explore ✦*
+🌸 &nbsp; *thanks for visiting — feel free to look around* &nbsp; 🌸
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
