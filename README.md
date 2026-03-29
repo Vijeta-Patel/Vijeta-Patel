@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20,21,22&height=200&section=header&text=vijeta%20patel&fontSize=52&fontColor=ffffff&fontAlignY=50&desc=%E2%9C%BF%20dev%20%C2%B7%20web3%20%C2%B7%20whatever's%20next%20%E2%9C%BF&descSize=15&descAlignY=70&descFontColor=ffe4e6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20,21,22&height=200&section=header&text=vijeta%20patel&fontSize=52&fontColor=ffffff&fontAlignY=50&desc=%E2%9C%BF%20dev%20%C2%B7%20web3%20%C2%B7%20whatever's%20next%20%E2%9C%BF&descSize=14&descAlignY=68&descFontColor=ffe4e6&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=14&pause=1000&color=F472B6&background=FFFFFF00&center=true&vCenter=true&width=500&lines=blockchain+·+ai+·+ml+·+web+dev+·+devops;learning+everything%2C+shipping+something;compiling+thoughts%2C+deploying+silence" alt="Typing SVG" />
 
