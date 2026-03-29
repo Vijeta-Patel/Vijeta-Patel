@@ -115,7 +115,4 @@
 <div align="center">
 
 *fin.*
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=100&section=footer&animation=fadeIn&t=3" width="100%"/>
-
 </div>
