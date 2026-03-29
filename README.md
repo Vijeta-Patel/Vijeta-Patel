@@ -21,8 +21,8 @@
   music    →  wired in
 ```
 
-🌸 &nbsp;building **ThreadMark** - tamper-proof blockchain identity for garments  
-💗 &nbsp;contributed to **AIOOP.org** - government-affiliated body for retired pensioners  
+🌸 &nbsp;building **ThreadMark** — tamper-proof blockchain identity for garments  
+💗 &nbsp;contributed to **AIOOP.org** — govt platform for retired pensioners  
 🌷 &nbsp;love hardware that talks to the internet and smart contracts that don't lie  
 ✨ &nbsp;ask me about ESP32, Solidity, or Python ML pipelines  
 
@@ -36,6 +36,8 @@
 
 `languages`
 
+![C](https://img.shields.io/badge/C-%23fce7f3?style=flat-square&logo=c&logoColor=be185d)
+![Java](https://img.shields.io/badge/Java-%23fdf2f8?style=flat-square&logo=openjdk&logoColor=be185d)
 ![Python](https://img.shields.io/badge/Python-%23fce7f3?style=flat-square&logo=python&logoColor=be185d)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23fdf2f8?style=flat-square&logo=javascript&logoColor=be185d)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23fce7f3?style=flat-square&logo=typescript&logoColor=be185d)
@@ -43,6 +45,15 @@
 ![C++](https://img.shields.io/badge/C++-%23fce7f3?style=flat-square&logo=cplusplus&logoColor=be185d)
 ![HTML](https://img.shields.io/badge/HTML-%23fdf2f8?style=flat-square&logo=html5&logoColor=be185d)
 ![CSS](https://img.shields.io/badge/CSS-%23fce7f3?style=flat-square&logo=css3&logoColor=be185d)
+
+`frameworks`
+
+![React](https://img.shields.io/badge/React-%23fdf2f8?style=flat-square&logo=react&logoColor=be185d)
+![Next.js](https://img.shields.io/badge/Next.js-%23fce7f3?style=flat-square&logo=nextdotjs&logoColor=be185d)
+![Node.js](https://img.shields.io/badge/Node.js-%23fdf2f8?style=flat-square&logo=nodedotjs&logoColor=be185d)
+![React Native](https://img.shields.io/badge/React%20Native-%23fce7f3?style=flat-square&logo=react&logoColor=be185d)
+![Tailwind](https://img.shields.io/badge/Tailwind-%23fdf2f8?style=flat-square&logo=tailwindcss&logoColor=be185d)
+![Chart.js](https://img.shields.io/badge/Chart.js-%23fce7f3?style=flat-square&logo=chartdotjs&logoColor=be185d)
 
 `hardware & iot`
 
@@ -55,6 +66,7 @@
 ![Web3.js](https://img.shields.io/badge/Web3.js-%23fdf2f8?style=flat-square&logo=web3dotjs&logoColor=be185d)
 ![IPFS](https://img.shields.io/badge/IPFS-%23fce7f3?style=flat-square&logo=ipfs&logoColor=be185d)
 ![MetaMask](https://img.shields.io/badge/MetaMask-%23fdf2f8?style=flat-square&logo=metamask&logoColor=be185d)
+![Remix IDE](https://img.shields.io/badge/Remix%20IDE-%23fce7f3?style=flat-square&logo=ethereum&logoColor=be185d)
 
 `ml & data`
 
