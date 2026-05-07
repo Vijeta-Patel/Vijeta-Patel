@@ -15,10 +15,9 @@
 ### ✿ about me
 
 ```
-  name     →  vijeta patel
   based    →  bengaluru, india
-  stack    →  react · solidity · python · esp32
-  mode     →  always building, rarely explaining
+  learning →  blockchain · ai · ml · web dev · devops
+  music    →  wired in
 ```
 
 🌸 &nbsp;building **ThreadMark** — tamper-proof blockchain identity for garments  
@@ -106,10 +105,10 @@
 
 | 🌸 | project | what it does |
 |:---:|:---|:---|
-| 🌷 | [**ThreadMark**](https://github.com/Vijeta-Patel/ThreadMark) | EU ESPR-compliant blockchain passport for garments — SHA-256 + Solidity + QR verification. counterfeits don't stand a chance |
-| 💗 | [**VAULTLESS**](https://github.com/Vijeta-Patel/HackNocturne-Project) — [live](https://vaultless-sys.vercel.app) | behavioural biometric auth on Ethereum — keystroke dynamics, Z-score scoring, cryptographic nullifiers, duress detection |
+| 🌷 | [**ThreadMark**](https://github.com/Vijeta-Patel/ThreadMark) | EU ESPR-compliant blockchain passport for garments, SHA-256 + Solidity + QR verification. counterfeits don't stand a chance |
+| 💗 | [**HackNocturne**](https://github.com/Vijeta-Patel/HackNocturne-Project) — [live](https://vaultless-sys.vercel.app) | behavioural biometric auth on Ethereum, keystroke dynamics, Z-score scoring, cryptographic nullifiers, duress detection |
 | 🌸 | [**aqi_miniproject**](https://github.com/Vijeta-Patel/aqi_miniproject) | ESP32 + MQ135 real-time air quality pipeline with a self-expanding Random Forest model trained on live sensor data |
-| ✨ | [**AIOOP.org**](https://aioop.org) | production React/TypeScript platform for a govt pensioner org — 1,250+ monthly users, multilingual, 98% uptime |
+| ✨ | [**AIOOP.org**](https://aioop.org) | production React/TypeScript platform for a govt pensioner org with 1,250+ monthly users, multilingual, 98% uptime |
 
 </div>
 
