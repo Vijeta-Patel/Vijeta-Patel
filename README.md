@@ -29,6 +29,22 @@
 
 ---
 
+### ✿ projects
+
+<div align="center">
+
+| 🌸 | project | what it does |
+|:---:|:---|:---|
+| ✨ | [**CAI**](https://github.com/Vijeta-Patel/CAI) | persistent memory-first multi-agent tax advisory OS — 6 LangGraph agents, vector memory, zero-hallucination RAG guardrails |
+| 🌷 | [**Caveat**](https://github.com/Vijeta-Patel/Caveat) | 3-surface legal intelligence platform (consumer, enterprise, Chrome extension) powered by a 7-agent LangGraph pipeline |
+| 💗 | [**PullSmith**](https://github.com/Vijeta-Patel/PullSmith) | autonomous 7-agent PR review pipeline — review, security scan, test generation, self-healing, GitHub verdicts |
+| 💗 | [**Vaultless**](https://github.com/Vijeta-Patel/VAULTLESS) — [live](https://vaultless-sys.vercel.app) | passwordless biometric auth: keystroke dynamics, Z-score normalization, weighted cosine similarity, Fuzzy Extractor key derivation anchored to Solana, with duress detection |
+| 🌸 | [**aqi_miniproject**](https://github.com/Vijeta-Patel/aqi_miniproject) | ESP32 + MQ135/DHT11 real-time air quality pipeline with a continuously retrained Random Forest classifier |
+
+</div>
+
+---
+
 ### ✿ tech stack
 
 <div align="center">
@@ -119,24 +135,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23fdf2f8?style=flat-square&logo=visualstudiocode&logoColor=be185d)
 ![Figma](https://img.shields.io/badge/Figma-%23fce7f3?style=flat-square&logo=figma&logoColor=be185d)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23fdf2f8?style=flat-square&logo=latex&logoColor=be185d)
-
-</div>
-
----
-
-### ✿ projects
-
-<div align="center">
-
-| 🌸 | project | what it does |
-|:---:|:---|:---|
-| 🌷 | [**ThreadMark**](https://github.com/Vijeta-Patel/ThreadMark) | EU ESPR-compliant blockchain passport for garments, SHA-256 + Solidity + QR verification |
-| 💗 | [**Vaultless**](https://github.com/Vijeta-Patel/HackNocturne-Project) — [live](https://vaultless-sys.vercel.app) | passwordless biometric auth: keystroke dynamics, Z-score normalization, weighted cosine similarity, Fuzzy Extractor key derivation anchored to Solana, with duress detection |
-| 🌸 | [**aqi_miniproject**](https://github.com/Vijeta-Patel/aqi_miniproject) | ESP32 + MQ135/DHT11 real-time air quality pipeline with a continuously retrained Random Forest classifier |
-| ✨ | [**CAI**](https://github.com/Vijeta-Patel/CAI) | persistent memory-first multi-agent tax advisory OS — 6 LangGraph agents, vector memory, zero-hallucination RAG guardrails |
-| 🌷 | [**Caveat**](https://github.com/Vijeta-Patel/Caveat) | 3-surface legal intelligence platform (consumer, enterprise, Chrome extension) powered by a 7-agent LangGraph pipeline |
-| 💗 | [**PullSmith**](https://github.com/Vijeta-Patel/PullSmith) | autonomous 7-agent PR review pipeline — review, security scan, test generation, self-healing, GitHub verdicts |
-| 🌸 | [**AIOOP.org**](https://aioop.org) | production React/TypeScript platform for a govt pensioner org — 1,250+ monthly users, multilingual, 98% uptime |
 
 </div>
 
