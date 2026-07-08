@@ -20,9 +20,9 @@
   music    →  wired in
 ```
 
-🌸 &nbsp;building **ThreadMark** — garments get a blockchain paper trail now
-💗 &nbsp;shipped multi-agent LLM systems: **CAI**, **Caveat**, **PullSmith**  
-🌷 &nbsp;models that don't hallucinate (much), and neither do I
+🌸 &nbsp;building **ThreadMark** — garments get a blockchain paper trail now<br>
+💗 &nbsp;shipped multi-agent LLM systems: **CAI**, **Caveat**, **PullSmith**<br>
+🌷 &nbsp;models that don't hallucinate (much), and neither do I<br>
 
 <br clear="right"/>
 
