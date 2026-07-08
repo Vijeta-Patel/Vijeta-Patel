@@ -22,7 +22,7 @@
 
 🌸 &nbsp;building **ThreadMark** — garments get a blockchain paper trail now
 💗 &nbsp;shipped multi-agent LLM systems: **CAI**, **Caveat**, **PullSmith**  
-🌷 &nbsp; models that don't hallucinate (much), and neither do I
+🌷 &nbsp;models that don't hallucinate (much), and neither do I
 
 <br clear="right"/>
 
