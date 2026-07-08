@@ -20,10 +20,9 @@
   music    →  wired in
 ```
 
-🌸 &nbsp;building **ThreadMark** — tamper-proof blockchain identity for garments  
+🌸 &nbsp;building **ThreadMark** — garments get a blockchain paper trail now
 💗 &nbsp;shipped multi-agent LLM systems: **CAI**, **Caveat**, **PullSmith**  
-🌷 &nbsp;love hardware that talks to the internet and smart contracts that don't lie  
-✨ &nbsp;ask me about ESP32, LangGraph, or behavioral biometrics
+🌷 &nbsp; models that don't hallucinate (much), and neither do I
 
 <br clear="right"/>
 
