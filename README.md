@@ -137,17 +137,7 @@
 
 </div>
 
----
 
-### ✿ github stats
-
-<div align="center">
-
-<img src="https://github-stats-alpha.vercel.app/api?username=Vijeta-Patel&cc=fff0f6&tc=be185d&ic=f472b6&bc=fce7f3" height="150"/>
-
-</div>
-
----
 
 <div align="center">
 
