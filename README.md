@@ -1,16 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3&height=200&section=header&text=vijeta%20patel&fontSize=52&fontColor=ffffff&fontAlignY=50&desc=%E2%9C%BF%20dev%20%C2%B7%20web3%20%C2%B7%20whatever's%20next%20%E2%9C%BF&descSize=15&descAlignY=70&descFontColor=ffe4e6&animation=fadeIn&t=3" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=14&pause=1000&color=F472B6&background=FFFFFF00&center=true&vCenter=true&width=500&lines=blockchain+·+iot+·+ml+·+full-stack;multi-agent+llm+pipelines+%26+real-time+systems;compiling+thoughts%2C+deploying+silence" alt="Typing SVG" />
-
-</div>
-
-<br>
-
----
-
-<img align="right" src="https://raw.githubusercontent.com/Vijeta-Patel/Vijeta-Patel/main/pixel.gif" width="115px"/>
 
 ### ✿ about me
 
